@@ -10,9 +10,9 @@ const Cards = () => {
       <h2 className='text-4xl font-bold text-center pt-8 '>Bollywood Movies</h2>
        <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>Validity-1 year </p>
-                  <p className='py-2 border-b mx-8'>Rs. 300</p>
+                  <p className='py-2 border-b mx-8'>Rs. 350</p>
                   </div>
-      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><Link to='/signup'>Sign Up</Link></button>
+      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><Link to='/home'>Get it</Link></button>
       </div>
 
       <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300  border-2 solid border-white'>
@@ -22,7 +22,7 @@ const Cards = () => {
                   <p className='py-2 border-b mx-8 mt-8'>Validity-1 year </p>
                   <p className='py-2 border-b mx-8'>Rs. 300</p>
                   </div>
-      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><a href = 'https://www.jio.com/mobile.html#fiber'>Buy now</a></button>
+      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><Link to='/home'>Get it</Link></button>
       </div>
 
       <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300  border-2 solid border-white'>
@@ -30,9 +30,9 @@ const Cards = () => {
       <h2 className='text-4xl font-bold text-center pt-8 '>Korean Drama</h2>
        <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>Validity-1 year </p>
-                  <p className='py-2 border-b mx-8'>Rs. 300</p>
+                  <p className='py-2 border-b mx-8'>Rs. 200</p>
                   </div>
-      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><a href = 'https://www.jio.com/mobile.html#fiber'>Buy now</a></button>
+      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><Link to='/home'>Get it</Link></button>
       </div>
 
       <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300  border-2 solid border-white'>
@@ -40,9 +40,9 @@ const Cards = () => {
       <h2 className='text-4xl font-bold text-center pt-8 '>News</h2>
        <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>Validity-1 year </p>
-                  <p className='py-2 border-b mx-8'>Rs. 300</p>
+                  <p className='py-2 border-b mx-8'>Rs. 250</p>
                   </div>
-      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><a href = 'https://www.jio.com/mobile.html#fiber'>Buy now</a></button>
+      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><Link to='/home'>Get it</Link></button>
       </div>
 
       <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300  border-2 solid border-white'>
@@ -50,9 +50,9 @@ const Cards = () => {
       <h2 className='text-4xl font-bold text-center pt-8 '>Sports</h2>
        <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>Validity-1 year </p>
-                  <p className='py-2 border-b mx-8'>Rs. 300</p>
+                  <p className='py-2 border-b mx-8'>Rs. 100</p>
                   </div>
-      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><a href = 'https://www.jio.com/mobile.html#fiber'>Buy now</a></button>
+      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><Link to='/home'>Get it</Link></button>
       </div>
 
       <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300  border-2 solid border-white'>
@@ -60,9 +60,9 @@ const Cards = () => {
       <h2 className='text-4xl font-bold text-center pt-8 '>Cartoons</h2>
        <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>Validity-1 year </p>
-                  <p className='py-2 border-b mx-8'>Rs. 300</p>
+                  <p className='py-2 border-b mx-8'>Rs. 100</p>
                   </div>
-      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><a href = 'https://www.jio.com/mobile.html#fiber'>Buy now</a></button>
+      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><Link to='/home'>Get it</Link></button>
       </div>
 
       <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300  border-2 solid border-white'>
@@ -70,9 +70,9 @@ const Cards = () => {
       <h2 className='text-4xl font-bold text-center pt-8 '>Anime</h2>
        <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>Validity-1 year </p>
-                  <p className='py-2 border-b mx-8'>Rs. 300</p>
+                  <p className='py-2 border-b mx-8'>Rs. 150</p>
                   </div>
-      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><a href = 'https://www.jio.com/mobile.html#fiber'>Buy now</a></button>
+      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><Link to='/home'>Get it</Link></button>
       </div>
 
       <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300  border-2 solid border-white'>
@@ -80,9 +80,9 @@ const Cards = () => {
       <h2 className='text-4xl font-bold text-center pt-8 '>TV Serials</h2>
        <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>Validity-1 year </p>
-                  <p className='py-2 border-b mx-8'>Rs. 300</p>
+                  <p className='py-2 border-b mx-8'>Rs. 150</p>
                   </div>
-      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><a href = 'https://www.jio.com/mobile.html#fiber'>Buy now</a></button>
+      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><Link to='/home'>Get it</Link></button>
       </div>
 
       <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300  border-2 solid border-white'>
@@ -90,9 +90,9 @@ const Cards = () => {
       <h2 className='text-4xl font-bold text-center pt-8 '>Series</h2>
        <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>Validity-1 year </p>
-                  <p className='py-2 border-b mx-8'>Rs. 300</p>
+                  <p className='py-2 border-b mx-8'>Rs. 250</p>
                   </div>
-      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><a href = 'https://www.jio.com/mobile.html#fiber'>Buy now</a></button>
+      <button className='bg-red-700 w-[200px] rounded-md font-medium my-6 mx-auto py-2 text-white'><Link to='/home'>Get it</Link></button>
       </div>
 
    
